@@ -114,3 +114,11 @@ ul {
 .logotip:focus {
   color: var(--white);
 }
+.logotip:hover,
+.logotip:focus {
+  color: var(--white);
+}
+.logotip:hover,
+.logotip:focus {
+  color: var(--white);
+}
